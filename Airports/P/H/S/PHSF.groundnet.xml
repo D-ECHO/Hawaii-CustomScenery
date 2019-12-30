@@ -1,0 +1,25 @@
+<?xml version="1.0"?>
+<groundnet>
+  <version>1</version>
+  <parkingList>
+        <Parking index="0" type="gate" name="Ramp" lat="N19 45.558106" lon="W155 33.284794" heading="101.66"  radius="17" airlineCodes="" />
+        <Parking index="1" type="ga" name="Helicopter_Ramp_1" lat="N19 45.490946" lon="W155 32.952305" heading="193.44"  radius="10" airlineCodes="" />
+        <Parking index="2" type="ga" name="Helicopter_Ramp_2" lat="N19 45.493426" lon="W155 32.966024" heading="193.44"  radius="10" airlineCodes="" />
+        <Parking index="3" type="ga" name="Helicopter_Ramp_3" lat="N19 45.496039" lon="W155 32.979739" heading="193.44"  radius="10" airlineCodes="" />
+        <Parking index="4" type="ga" name="Helicopter_Ramp_4" lat="N19 45.498608" lon="W155 32.993278" heading="193.44"  radius="10" airlineCodes="" />
+        <Parking index="5" type="ga" name="Helicopter_Ramp_5" lat="N19 45.501299" lon="W155 33.006595" heading="193.44"  radius="10" airlineCodes="" />
+        <Parking index="6" type="ga" name="Helicopter_Ramp_6" lat="N19 45.503864" lon="W155 33.020677" heading="193.44"  radius="10" airlineCodes="" />
+        <Parking index="7" type="ga" name="Helicopter_Ramp_7" lat="N19 45.506618" lon="W155 33.034487" heading="193.44"  radius="10" airlineCodes="" />
+        <Parking index="8" type="ga" name="Helicopter_Ramp_8" lat="N19 45.509230" lon="W155 33.047719" heading="193.44"  radius="10" airlineCodes="" />
+        <Parking index="9" type="ga" name="Helicopter_Ramp_9" lat="N19 45.511467" lon="W155 33.061876" heading="193.44"  radius="10" airlineCodes="" />
+        <Parking index="10" type="ga" name="Helicopter_Ramp_10" lat="N19 45.514609" lon="W155 33.075256" heading="193.44"  radius="10" airlineCodes="" />
+        <Parking index="11" type="ga" name="Helicopter_Ramp_11" lat="N19 45.517278" lon="W155 33.089128" heading="193.44"  radius="10" airlineCodes="" />
+        <Parking index="12" type="ga" name="Helicopter_Ramp_12" lat="N19 45.519638" lon="W155 33.102890" heading="193.44"  radius="10" airlineCodes="" />
+        <Parking index="13" type="ga" name="Helicopter_Ramp_13" lat="N19 45.522461" lon="W155 33.116353" heading="193.44"  radius="10" airlineCodes="" />
+        <Parking index="14" type="ga" name="Helicopter_Ramp_14" lat="N19 45.525361" lon="W155 33.130116" heading="193.44"  radius="10" airlineCodes="" />
+        <Parking index="15" type="ga" name="Helicopter_Ramp_15" lat="N19 45.528021" lon="W155 33.143610" heading="193.44"  radius="10" airlineCodes="" />
+        <Parking index="16" type="ga" name="Helicopter_Ramp_16" lat="N19 45.530524" lon="W155 33.157790" heading="193.44"  radius="10" airlineCodes="" />
+        <Parking index="17" type="ga" name="Helicopter_Ramp_17" lat="N19 45.533536" lon="W155 33.171128" heading="193.44"  radius="10" airlineCodes="" />
+        <Parking index="18" type="ga" name="Helicopter_Ramp_18" lat="N19 45.536461" lon="W155 33.185030" heading="193.44"  radius="10" airlineCodes="" />
+ </parkingList>
+</groundnet>
